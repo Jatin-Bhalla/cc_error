@@ -1,5 +1,5 @@
 {
-  "name": "ClassCode",
+  "name": "classcode",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -18,7 +18,7 @@
   },
   "packageManager": "npm@10.4.0",
   "workspaces": [
-    "apps/*",
+    "apps/*npm ",
     "packages/*"
   ]
 }
