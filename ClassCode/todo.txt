@@ -1,2 +1,0 @@
-use prettierrc.json?
-add a admin next app?
